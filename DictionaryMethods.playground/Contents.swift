@@ -130,8 +130,6 @@ if emptyDictionary.isEmpty {
     print("There's something here...")
 }
 
-
-
 // RETRIEVING KEYS
 
 let planetNames = Array(planetsAndTheirMoons.keys)
